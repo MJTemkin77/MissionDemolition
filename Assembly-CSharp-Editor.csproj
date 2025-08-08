@@ -1310,6 +1310,10 @@
       <Project>{340C932F-C289-9990-B470-24F57F6C3B35}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
+    <ProjectReference Include="YamlDotNet.csproj">
+      <Project>{623D4856-83F8-0182-B322-A2F136C4077A}</Project>
+      <Name>YamlDotNet</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

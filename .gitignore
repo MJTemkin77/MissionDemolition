@@ -31,8 +31,12 @@
 # Unity Cloud Build
 /[Aa]ssets/**/*.cloud
 
+/[Aa]ssets/YamlDotNet/*.*
+
 # Unity auto-generated files
 /[Aa]ssets/**/*.auto
+
+/[Aa]ssets/**/*.svd
 
 # Exclude personal settings
 /ProjectSettings/EditorBuildSettings.asset
