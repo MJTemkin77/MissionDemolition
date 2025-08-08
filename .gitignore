@@ -1,0 +1,41 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Asset meta files
+/[Aa]ssets/**/*.meta
+
+# Auto-generated VS/VSCode project files
+/[Aa]ssets/**/*.csproj
+/[Aa]ssets/**/*.unityproj
+/[Aa]ssets/**/*.sln
+/[Aa]ssets/**/*.suo
+/[Aa]ssets/**/*.user
+/[Aa]ssets/**/*.userprefs
+/[Aa]ssets/**/*.pidb
+/[Aa]ssets/**/*.booproj
+/[Aa]ssets/**/*.svd
+
+# Unity Cache files
+/[Aa]ssets/**/*.csproj
+/[Aa]ssets/**/*.pidb.meta
+
+# Crash Reports
+/[Aa]ssets/**/*.crash
+
+# Unity Cloud Build
+/[Aa]ssets/**/*.cloud
+
+# Unity auto-generated files
+/[Aa]ssets/**/*.auto
+
+# Exclude personal settings
+/ProjectSettings/EditorBuildSettings.asset
+/ProjectSettings/EditorSettings.asset
+/ProjectSettings/ProjectSettings.asset
+/ProjectSettings/QualitySettings.asset
