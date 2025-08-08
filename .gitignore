@@ -10,6 +10,9 @@
 # Asset meta files
 /[Aa]ssets/**/*.meta
 
+
+.vs/**
+
 # Auto-generated VS/VSCode project files
 /[Aa]ssets/**/*.csproj
 /[Aa]ssets/**/*.unityproj
