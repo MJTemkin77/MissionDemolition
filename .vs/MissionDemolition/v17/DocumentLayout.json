@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "D:\\Columbia\\GibsonBondExamples\\MissionDemolition\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{340C932F-C289-9990-B470-24F57F6C3B35}|Assembly-CSharp.csproj|d:\\columbia\\gibsonbondexamples\\missiondemolition\\assets\\scripts\\yamlreaderexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{340C932F-C289-9990-B470-24F57F6C3B35}|Assembly-CSharp.csproj|d:\\columbia\\gibsonbondexamples\\missiondemolition\\assets\\scripts\\slingshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340C932F-C289-9990-B470-24F57F6C3B35}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\slingshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340C932F-C289-9990-B470-24F57F6C3B35}|Assembly-CSharp.csproj|D:\\Columbia\\GibsonBondExamples\\MissionDemolition\\assets\\scripts\\yamlreaderexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{340C932F-C289-9990-B470-24F57F6C3B35}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\yamlreaderexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Slingshot.cs",
+              "DocumentMoniker": "D:\\Columbia\\GibsonBondExamples\\MissionDemolition\\Assets\\Scripts\\Slingshot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Slingshot.cs",
+              "ToolTip": "D:\\Columbia\\GibsonBondExamples\\MissionDemolition\\Assets\\Scripts\\Slingshot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Slingshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T20:10:04.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "YamlReaderExample.cs",
               "DocumentMoniker": "D:\\Columbia\\GibsonBondExamples\\MissionDemolition\\Assets\\Scripts\\YamlReaderExample.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\YamlReaderExample.cs",
@@ -42,12 +59,11 @@
               "RelativeToolTip": "Assets\\Scripts\\YamlReaderExample.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T18:20:27.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-08T18:20:27.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ExampleRunner.cs",
               "DocumentMoniker": "D:\\Columbia\\GibsonBondExamples\\MissionDemolition\\Assets\\YamlDotNet\\Examples\\Helpers\\ExampleRunner.cs",
               "RelativeDocumentMoniker": "Assets\\YamlDotNet\\Examples\\Helpers\\ExampleRunner.cs",
@@ -58,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SampleAttribute.cs",
               "DocumentMoniker": "D:\\Columbia\\GibsonBondExamples\\MissionDemolition\\Assets\\YamlDotNet\\Examples\\Helpers\\SampleAttribute.cs",
               "RelativeDocumentMoniker": "Assets\\YamlDotNet\\Examples\\Helpers\\SampleAttribute.cs",
@@ -69,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ITestOutputHelper.cs",
               "DocumentMoniker": "D:\\Columbia\\GibsonBondExamples\\MissionDemolition\\Assets\\YamlDotNet\\Examples\\Helpers\\ITestOutputHelper.cs",
               "RelativeDocumentMoniker": "Assets\\YamlDotNet\\Examples\\Helpers\\ITestOutputHelper.cs",
