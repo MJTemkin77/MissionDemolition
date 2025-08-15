@@ -90,9 +90,13 @@ public class Slingshot : MonoBehaviour
         if (Input.GetMouseButtonUp(0))
         {
             aimingMode = false;
+            
             Rigidbody projRB = projectile.GetComponent<Rigidbody>();
+            // See NOTE: but in more recent versions of Unity, if you set a Rigidbody with Continuous collision detection to isKinematic, Unity will throw a warning into the Console, 
+            
             projRB.isKinematic = false;
             projRB.collisionDetectionMode = CollisionDetectionMode.Continuous;
+
             projRB.linearVelocity = -mouseDelta * velocityMult;
             projectile = null;
         }
